@@ -1,5 +1,4 @@
 // todo:
-// 1. test all operations in helper with any types
 // 2. revise helper to use Post object for everything
 // 3. move onto another form of storage (comments?)
 // 4. devise MVP criteria (posts + comments + accounts?)
